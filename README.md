@@ -4,7 +4,7 @@ author: GoldenJuly
 
 1 introduction:
 
-this is a vim configure by GJ, almost for root user, notice it has been configured install vundle in local directorys named bundle, so it is still worked offline
+this is a vim configure by GJ, only for root user now and will for any use later...
 
 
 2 notice:
@@ -12,6 +12,8 @@ this is a vim configure by GJ, almost for root user, notice it has been configur
 2.1 you'd better upgrade your vim version to 8.0+
 
 2.2 only for root user and will change later
+
+2.3 it has been configured install vundle in local directorys named bundle, so it is still worked offline
 
 
 3 how to install:
