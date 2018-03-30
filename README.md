@@ -3,6 +3,7 @@
 author: GoldenJuly
 
 1 introduction:
+
 this is a vim configure by GJ, almost for root user, notice it has been configured install vundle in local directorys named bundle, so it is still worked offline
 
 2 notice:
